@@ -1,5 +1,4 @@
 <h2>Tensorflow-Tiled-Image-Segmentation-Augmented-MultipleMyeloma (Updated: 2024/09/08)</h2>
-<br>
 
 This is the first experiment of Tiled Image Segmentation for <a href="https://bcnb.grand-challenge.org/Dataset/">
 (MultipleMyeloma Cell Segmentation)
@@ -581,7 +580,6 @@ Vyshnav M T, Sowmya V, Gopalakrishnan E A, Sajith Variyar V V, Vijay Krishna Men
 <a href="https://www.researchgate.net/publication/346238471_Deep_Learning_Based_Approach_for_Multiple_Myeloma_Detection">
 https://www.researchgate.net/publication/346238471_Deep_Learning_Based_Approach_for_Multiple_Myeloma_Detection
 </a>
-
 <br>
 <br>
 <b>3. Image-Segmentation-Multiple-Myeloma</b><br>
@@ -589,7 +587,6 @@ Toshiyuki Arai @antillia.com<br>
 <a href="https://github.com/atlan-antillia/Image-Segmentation-Multiple-Myeloma">
 https://github.com/atlan-antillia/Image-Segmentation-Multiple-Myeloma
 </a>
-
 <br>
 <br>
 <b>4. Tiled-ImageMask-Dataset-MultipleMyeloma
