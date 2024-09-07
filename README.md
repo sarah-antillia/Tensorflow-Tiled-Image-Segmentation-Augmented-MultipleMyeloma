@@ -25,7 +25,6 @@ which was tiledly-splitted to 512x512
 with a resolution of 2K pixels. <br>
 
 
-<br>  
 
 <hr>
 <b>Actual Tiled Image Segmentation for Images of 2K pixels</b><br>
