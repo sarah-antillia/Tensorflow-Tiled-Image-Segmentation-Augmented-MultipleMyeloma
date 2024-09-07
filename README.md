@@ -9,11 +9,11 @@ the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API
 Tiled-MultipleMyeloma-ImageMask-Dataset.zip</a>, which was derived by us from <a href="https://bcnb.grand-challenge.org/Dataset/">MultipleMyeloma Dataset</a>
 <br>
 <br>
-<!--
-Please see also <br> 
+
+Please see also: <br> 
 <a href="https://github.com/sarah-antillia/Tiled-ImageMask-Dataset-MultipleMyeloma">
 Tiled-ImageMask-Dataset-MultipleMyeloma</a><br><br>
--->
+
 <b>Experiment Strategies:</b><br>
 <b>1.Tiled-ImageMask-Dataset:</b><br>
  We trained and validated a TensorFlow UNet model using the Tiled-MultipleMyeloma-ImageMask-Dataset, 
